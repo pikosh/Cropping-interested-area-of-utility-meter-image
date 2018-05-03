@@ -1,0 +1,1 @@
+# Cropping-interested-area-of-utility-meter-image
